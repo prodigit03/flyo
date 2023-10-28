@@ -1,0 +1,221 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.mainbackground{
+    background-color: hsl(217, 28%, 15%);
+    color: white;
+}
+.wrapper{
+    width: 85%;
+    margin: 0 auto;
+}
+.upperBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2em;
+    padding-bottom: 3em;
+}
+.imageCon{
+    width: 20%;
+}
+.fylo{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+.backgroundimage{
+    background-image: url(../assets/bg-curvy-mobile.svg);
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: -2em;
+}
+.header1{
+    font-size: 1.61em;
+    text-align: center;
+    padding-top: 1.5em;
+}
+.secondbackground{
+    background-color: hsl(218, 28%, 13%);
+    color: white;
+    
+}
+.fylo1{
+    padding-top: 1em;
+    text-align: center;
+    padding-bottom: 1.5em;
+}
+.centerCon{
+    text-align: center;
+    padding-bottom: 5em;
+    padding-top: 1em;
+}
+.getstarted{
+    text-decoration: none;
+    color: white;
+    border: 2px solid hsl(176, 68%, 64%);
+    background-color: hsl(176, 68%, 64%);
+    padding: .5em 2.8em;
+    border-radius: 1.2em;
+    font-weight: 500;
+    font-size: 16px;
+}
+.image3{
+    width: 30%;
+    margin: 0 auto;
+    padding-bottom: 1.5em;
+}
+.textCon{
+    padding-bottom: 5em;
+}
+.files{
+    font-weight: 500;
+    font-size: 1.5em;
+    padding-bottom: .5em;
+    text-align: center;
+}
+.Con2{
+    text-align: center;
+    font-size: 16px;
+}
+.mainimage2{
+    padding-bottom: 2em;
+}
+.file1{
+    font-weight: 500;
+    font-size: 1.2em;
+    padding-bottom: 1.5em;
+    text-align: center;
+    padding-top: 1em;
+}
+.storage{
+    padding-bottom: 1em;
+    font-size: 16px;
+}
+.fyloworks{
+    color: hsl(176, 68%, 64%);
+}
+.imageTextCon{
+    padding-bottom: 8em;
+}
+.symbolCon{
+    width: 10%;
+}
+.borderCon{
+    border: 2px solid hsl(219, 30%, 18%);
+    background-color: hsl(219, 30%, 18%);
+    border-radius: .7em;
+    margin-bottom: 1em;
+}
+.Box1{
+    width: 95%;
+    margin: 0 auto;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.fylo2{
+    font-size: 15px;
+    padding-bottom: 1em;
+    line-height: 1.6em;
+}
+.flexBox1{
+    display: flex;
+}
+.imagesizeCon{
+    width: 20%;
+    padding-right: .8em;
+}
+.imagesizeBox{
+    border-radius: 3em;   
+}
+.borderCon2{
+    border: 2px solid hsl(217, 28%, 15%);
+    background-color: hsl(217, 28%, 15%);
+    border-radius: .7em;
+    position: relative;
+    bottom: -10em;
+    z-index: 20;
+}
+.Con3{
+    text-align: center; 
+    width: 90%;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 1.4em;
+    padding-bottom: 1em;
+}
+.emailBox{
+    display: block;
+    text-align: center;
+    padding-bottom: 1em;
+}
+.email1{
+    border-radius: 2em;
+    padding: 1em 5em;
+}
+.getstarted2{
+    text-decoration: none;
+    color: white;
+    border: 2px solid hsl(176, 68%, 64%);
+    background-color: hsl(176, 68%, 64%);
+    padding: .5em 4.2em;
+    border-radius: 2em;
+    font-weight: 500;
+    font-size: 16px;
+}
+.centerCon1{
+    text-align: center;
+    padding-bottom: 2em;
+    padding-top: 1em;
+}
+.red{
+    background: hsl(216, 53%, 9%);
+    position: relative;
+    padding-top: 12em;
+}
+.thirdbackground{
+    background-color: hsl(216, 53%, 9%);
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    color: white;
+}
+.widthCon{
+    width: 50%;
+}
+.flexBox2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2em;
+}
+.imagelocation{
+    padding-right: 1em;
+    padding-top: 0.2em;
+}
+.flexBox3{
+    display: flex;
+    padding-bottom: 2em;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.8em;
+    padding-bottom: 1em;
+}
+.jobs{
+    text-decoration: none;
+    color: white;
+}
+.lastflexCon{
+    display: flex;
+    justify-content: center;
+    gap: 1.5em;
+    padding-bottom: 2em;
+    text-align: center;
+    padding-top: 3em;
+}
+    
